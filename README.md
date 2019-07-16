@@ -1,6 +1,6 @@
 # README
 
-MVCを勉強するため、最低限のCRUD用いてブログサービスを作成しました。
+MVCの勉強のため、最低限のCRUD用いてブログサービスを作成しました。
 
 * URL
 https://blog-kazuya.herokuapp.com/
